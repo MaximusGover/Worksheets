@@ -18,7 +18,6 @@ class MyFlutterApp extends StatefulWidget {
 }
 
 class MyFlutterState extends State<MyFlutterApp>{
-
   String dynamic_text = "";
   @override
   void initState() {
@@ -88,7 +87,6 @@ class MyFlutterState extends State<MyFlutterApp>{
                 ),
               ),
             ),
-          
           ],
         ),
       ),
